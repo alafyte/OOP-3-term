@@ -51,41 +51,41 @@ namespace Lab01
                               $"object  - {var17}\n"
                               );
 
-            //Console.WriteLine("Ввод значений переменных: ");
-            //Console.Write("bool: ");
-            //var1 = bool.Parse(Console.ReadLine());
-            //Console.Write("byte: ");
-            //var2 = byte.Parse(Console.ReadLine());
-            //Console.Write("sbyte: ");
-            //var3 = sbyte.Parse(Console.ReadLine());
-            //Console.Write("char: ");
-            //var4 = char.Parse(Console.ReadLine());
-            //Console.Write("decimal: ");
-            //var5 = decimal.Parse(Console.ReadLine());
-            //Console.Write("double: ");
-            //var6 = double.Parse(Console.ReadLine());
-            //Console.Write("float: ");
-            //var7 = float.Parse(Console.ReadLine());
-            //Console.Write("int: ");
-            //var8 = int.Parse(Console.ReadLine());
-            //Console.Write("uint: ");
-            //var9 = uint.Parse(Console.ReadLine());
-            //Console.Write("nint: ");
-            //var10 = nint.Parse(Console.ReadLine());
-            //Console.Write("nuint: ");
-            //var11 = nuint.Parse(Console.ReadLine());
-            //Console.Write("long: ");
-            //var12 = long.Parse(Console.ReadLine());
-            //Console.Write("ulong: ");
-            //var13 = ulong.Parse(Console.ReadLine());
-            //Console.Write("short: ");
-            //var14 = short.Parse(Console.ReadLine());
-            //Console.Write("ushort: ");
-            //var15 = ushort.Parse(Console.ReadLine());
-            //Console.Write("string: ");
-            //var16 = Console.ReadLine();
-            //Console.Write("object: ");
-            //var17 = Console.ReadLine();
+            Console.WriteLine("Ввод значений переменных: ");
+            Console.Write("bool: ");
+            var1 = bool.Parse(Console.ReadLine());
+            Console.Write("byte: ");
+            var2 = byte.Parse(Console.ReadLine());
+            Console.Write("sbyte: ");
+            var3 = sbyte.Parse(Console.ReadLine());
+            Console.Write("char: ");
+            var4 = char.Parse(Console.ReadLine());
+            Console.Write("decimal: ");
+            var5 = decimal.Parse(Console.ReadLine());
+            Console.Write("double: ");
+            var6 = double.Parse(Console.ReadLine());
+            Console.Write("float: ");
+            var7 = float.Parse(Console.ReadLine());
+            Console.Write("int: ");
+            var8 = int.Parse(Console.ReadLine());
+            Console.Write("uint: ");
+            var9 = uint.Parse(Console.ReadLine());
+            Console.Write("nint: ");
+            var10 = nint.Parse(Console.ReadLine());
+            Console.Write("nuint: ");
+            var11 = nuint.Parse(Console.ReadLine());
+            Console.Write("long: ");
+            var12 = long.Parse(Console.ReadLine());
+            Console.Write("ulong: ");
+            var13 = ulong.Parse(Console.ReadLine());
+            Console.Write("short: ");
+            var14 = short.Parse(Console.ReadLine());
+            Console.Write("ushort: ");
+            var15 = ushort.Parse(Console.ReadLine());
+            Console.Write("string: ");
+            var16 = Console.ReadLine();
+            Console.Write("object: ");
+            var17 = Console.ReadLine();
 
             Console.WriteLine($"bool    - {var1}\n" +
                              $"byte    - {var2}\n" +
@@ -201,7 +201,7 @@ namespace Lab01
             Console.WriteLine($"Выделение подстроки (с 1 по 3 позицию из строки 'Third'): {str5.Substring(1, 3)}");
 
             Console.WriteLine("Разделение на слова: ");
-            String[] wordsFromString = str6.Split(' ');
+            String[] wordsFromString = str6.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
             foreach (String s in wordsFromString)
                 Console.WriteLine(s);
