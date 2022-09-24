@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\University\\3_cем\\ОПП\\Lab02\\Lab02\\Lab02.csproj": {}
+    "C:\\University\\3_cем\\ОOП\\Lab02\\Lab02\\Lab02.csproj": {}
   },
   "projects": {
-    "C:\\University\\3_cем\\ОПП\\Lab02\\Lab02\\Lab02.csproj": {
+    "C:\\University\\3_cем\\ОOП\\Lab02\\Lab02\\Lab02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\3_cем\\ОПП\\Lab02\\Lab02\\Lab02.csproj",
+        "projectUniqueName": "C:\\University\\3_cем\\ОOП\\Lab02\\Lab02\\Lab02.csproj",
         "projectName": "Lab02",
-        "projectPath": "C:\\University\\3_cем\\ОПП\\Lab02\\Lab02\\Lab02.csproj",
+        "projectPath": "C:\\University\\3_cем\\ОOП\\Lab02\\Lab02\\Lab02.csproj",
         "packagesPath": "C:\\Users\\blebb\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\3_cем\\ОПП\\Lab02\\Lab02\\obj\\",
+        "outputPath": "C:\\University\\3_cем\\ОOП\\Lab02\\Lab02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blebb\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,14 +17,14 @@ namespace Lab02
         /*поле - только для чтения(например, для каждого экземпляра сделайте
         поле только для чтения ID - равно некоторому уникальному номеру
         (хэшу) вычисляемому автоматически на основе инициализаторов объекта);*/
-        public readonly int busID;
+        private readonly int busID;
 
         //поле- константу;
-        public const string busColor = "Yellow";
+        private const string busColor = "Yellow";
 
         /*создайте в классе статическое поле, хранящее количество созданных
         объектов(инкрементируется в конструкторе)*/
-        public static int count { get; private set; }
+        private static int count;
 
 
 
