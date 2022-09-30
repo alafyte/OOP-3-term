@@ -1,0 +1,23 @@
+[
+  {
+    "$type": "Lab05.Mats, Lab05",
+    "Name": "Мат №1574",
+    "Cost": 118
+  },
+  {
+    "$type": "Lab05.Bench, Lab05",
+    "Name": "Скамейка №2932",
+    "Cost": 139
+  },
+  {
+    "$type": "Lab05.Bars, Lab05",
+    "Name": "Брусья №3562",
+    "Cost": 140
+  },
+  {
+    "$type": "Lab05.Ball, Lab05",
+    "Name": "Футбольный мяч №8430",
+    "Cost": 169
+  }
+]
+
