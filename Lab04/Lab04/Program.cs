@@ -44,7 +44,7 @@ namespace Lab04
 
             var bench = new Bench("Скамейка 1");
             var mats = new Mats("Мат 1");
-            var bars = new Bars("Брус 1");
+            var bars = new Bars("Брусья 1");
             var ball = new BasketballBall("Баскетбольный мяч 1", 7);
 
             var inventoryItems = new Inventory[4];

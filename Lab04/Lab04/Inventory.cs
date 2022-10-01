@@ -76,7 +76,7 @@ namespace Lab04
     {
         public Bars()
         {
-            Name = "Брус";
+            Name = "Брусья";
         }
         public Bars(string name)
         {
@@ -85,20 +85,20 @@ namespace Lab04
 
         public override void TakeItem()
         {
-            Console.WriteLine("Взят брус");
+            Console.WriteLine("Взяты брусья");
         }
 
         public void UseInventory()
         {
-            Console.WriteLine("Вы использовали брус");
+            Console.WriteLine("Вы использовали брусья");
         }
         public override void GetInventoryType()
         {
-            Console.WriteLine("Это брус");
+            Console.WriteLine("Это брусья");
         }
         void IUseInventory.GetInventoryType()
         {
-            Console.WriteLine("Брус");
+            Console.WriteLine("Брусья");
         }
 
         public override string ToString()
@@ -187,7 +187,7 @@ namespace Lab04
     {
         public BasketballBall()
         {
-            Name = "Мат";
+            Name = "Баскетбольный мяч";
             BallSize = 3;
         }
         public BasketballBall(string name, int size)
