@@ -1,0 +1,9 @@
+------------08/10/22 13:49:16------------
+TYPE: System.IO.FileNotFoundException
+INFO: Unable to find the specified file.
+------------08/10/22 13:53:58------------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'C:\University\3_cем\ОOП\Lab06\Lab06\Data.json'.
+------------08/10/22 13:58:38------------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'C:\University\3_cем\ОOП\Lab06\Lab06\Data.json'.
