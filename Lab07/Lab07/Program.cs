@@ -1,6 +1,5 @@
 ﻿using System;
-using System.IO;
-using Newtonsoft.Json;
+
 
 namespace Lab07
 {
@@ -17,10 +16,10 @@ namespace Lab07
                 sbyteList.Add(23);
                 sbyteList.Add(100);
                 sbyteList.Add(127);
-                sbyteList.Add(-2);
-                sbyteList.Add(0);
-                sbyteList.Add(-120);
-                sbyteList.Add(-17);
+                sbyteList.Remove(23);
+                sbyteList.Remove(100);
+                sbyteList.Remove(127);
+                sbyteList.Remove(23);
             }
             catch (Exception ex)
             {

@@ -5,8 +5,9 @@ namespace Lab07
     /*2) Возьмите за основу лабораторную № 3 «Перегрузка операций» и 
     с делайте из нее обобщенный тип (класс) CollectionType<T>, в который 
     вложите обобщённую коллекцию. Наследуйте в обобщенном классе интерфейс 
-    из п.1. Реализуйте необходимые методы (добавления, удаления, и т.д.).*/
-    public class List<T> : IGeneric<T>
+    из п.1. Реализуйте необходимые методы (добавления, удаления, и т.д.).
+    Наложите какое-либо ограничение на обобщение*/
+    public class List<T> : IGeneric<T> //where T : class
     {
         public class Node
         {
@@ -33,9 +34,6 @@ namespace Lab07
 
         public void Add(T data)
         {
-            //Наложите какое-либо ограничение на обобщение
-            if (_count + 1 > 5)
-                throw new IndexOutOfRangeException();
             var newNode = new Node
             {
                 Data = data
