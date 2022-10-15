@@ -33,11 +33,11 @@ namespace Lab09
             Console.WriteLine("--------------------------------------------------");
             Stack<int> stack = new Stack<int>();
 
-            /*a)Выведите коллекцию на консоль*/
             for (int i = 1; i < 8; i++)
                 stack.Push(i);
 
-            foreach(var i in stack)
+            /*a)Выведите коллекцию на консоль*/
+            foreach (var i in stack)
                 Console.WriteLine(i.ToString());
             Console.WriteLine("--------------------------------------------------");
             //b) Удалите из коллекции n последовательных элементов
