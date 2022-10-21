@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lab08">
+      <HintPath>..\..\Lab08\Lab08\bin\Debug\net5.0\Lab08.dll</HintPath>
+    </Reference>
+    <Reference Include="Lab10">
+      <HintPath>..\..\Lab10\Lab10\bin\Debug\net5.0\Lab10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

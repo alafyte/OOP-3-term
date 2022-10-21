@@ -1,0 +1,95 @@
+
+*********************************************************************************
+*********************************************************************************
+Имя класса: Lab10.Bus, Lab10. Имя сборки: Lab10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+-------------------------------------------------
+Содержит общедоступный конструктор: Void .ctor()
+Содержит общедоступный конструктор: Void .ctor(System.String, Int32, Int32, Int32, Int32, System.String)
+Содержит общедоступный конструктор: Void .ctor(Int32)
+-------------------------------------------------
+Список общедоступных методов: 
+System.String get_driverName()
+Void set_driverName(System.String)
+Int32 get_BusNum()
+Int32 get_RouteNum()
+Void set_RouteNum(Int32)
+Int32 get_YearStart()
+Void set_YearStart(Int32)
+Int32 get_Mileage()
+Void set_Mileage(Int32)
+Int32 BusAge()
+Void IncreaseMileage(Int32 ByRef)
+Void ChangeDriver(System.String ByRef, System.String)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.String ToString()
+System.Type GetType()
+-------------------------------------------------
+Список полей и свойств
+System.String <driverName>k__BackingField
+Int32 busNumber
+Int32 routeNumber
+System.String <busBrand>k__BackingField
+Int32 yearOfOpetationStart
+Int32 mileage
+Int32 busID
+System.String driverName
+System.String busBrand
+Int32 BusNum
+Int32 RouteNum
+Int32 YearStart
+Int32 Mileage
+-------------------------------------------------
+Методы с заданным параметром (transportMileage):
+Void IncreaseMileage(Int32 ByRef)
+-------------------------------------------------
+*********************************************************************************
+*********************************************************************************
+Имя класса: Lab08.Software, Lab08. Имя сборки: Lab08, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+-------------------------------------------------
+Содержит общедоступный конструктор: Void .ctor(System.String)
+-------------------------------------------------
+Список общедоступных методов: 
+System.String get_Name()
+Void set_Name(System.String)
+System.String get_Version()
+Void set_Version(System.String)
+Boolean get_IsWorking()
+Void set_IsWorking(Boolean)
+Void ShowInfo()
+Void StartWork()
+Void EndWork()
+Void ChangeVersion(System.String)
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+-------------------------------------------------
+Список полей и свойств
+System.String <Name>k__BackingField
+System.String <Version>k__BackingField
+Boolean <IsWorking>k__BackingField
+System.String Name
+System.String Version
+Boolean IsWorking
+-------------------------------------------------
+Методы с заданным параметром (newVersion):
+Void ChangeVersion(System.String)
+-------------------------------------------------
+*********************************************************************************
+*********************************************************************************
+Имя класса: System.Object. Имя сборки: System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+-------------------------------------------------
+Содержит общедоступный конструктор: Void .ctor()
+-------------------------------------------------
+Список общедоступных методов: 
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+-------------------------------------------------
+Список полей и свойств
+-------------------------------------------------
+Методы с заданным параметром ():
+Отсутсвуют
+-------------------------------------------------
