@@ -1,0 +1,78 @@
+29/10/22 12:49:16
+Действие: RNADiskInfo.getFreeDrivesSpace()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:49:46
+Действие: RNADiskInfo.getFreeDrivesSpace()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:49:47
+Действие: RNAFileInfo.WriteFileInfo()
+Имя файла: RNALogfile.txt
+Путь к файлу: C:\University\3_cем\ОOП\Lab12\RNALogfile.txt
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:49:48
+Действие: RNADirInfo.WriteDirInfo()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:49:50
+Действие: RNAFileManager.InspectDriver()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:49:51
+Действие: RNAFileManager.CopyFiles()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:49:51
+Действие:  RNAFileManager.CreateArchive()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:50:24
+Действие: RNADiskInfo.getFreeDrivesSpace()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:50:25
+Действие: RNAFileInfo.WriteFileInfo()
+Имя файла: RNALogfile.txt
+Путь к файлу: C:\University\3_cем\ОOП\Lab12\RNALogfile.txt
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:50:26
+Действие: RNADirInfo.WriteDirInfo()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:50:27
+Действие: RNAFileManager.InspectDriver()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:50:47
+Действие: RNAFileManager.CopyFiles()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 12:50:47
+Действие:  RNAFileManager.CreateArchive()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 14:42:07
+Действие: RNAFileInfo.WriteFileInfo()
+Имя файла: RNALogfile.txt
+Путь к файлу: C:\University\3_cем\ОOП\Lab12\RNALogfile.txt
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 14:42:07
+Действие: RNADirInfo.WriteDirInfo()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 14:42:07
+Действие: RNAFileManager.InspectDriver()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 14:42:07
+Действие: RNAFileManager.CopyFiles()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 14:42:07
+Действие:  RNAFileManager.CreateArchive()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 15:13:06
+Действие: RNAFileInfo.WriteFileInfo()
+Имя файла: RNALogfile.txt
+Путь к файлу: C:\University\3_cем\ОOП\Lab12\RNALogfile.txt
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 15:13:06
+Действие: RNADirInfo.WriteDirInfo()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 15:13:06
+Действие: RNAFileManager.InspectDriver()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 15:13:06
+Действие: RNAFileManager.CopyFiles()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+29/10/22 15:13:06
+Действие:  RNAFileManager.CreateArchive()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+

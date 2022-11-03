@@ -1,0 +1,37 @@
+Список папок:
+C:\$AV_ASW
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\1 курс
+C:\Apps
+C:\DELL
+C:\Documents and Settings
+C:\Drivers
+C:\flowchart
+C:\Intel
+C:\NetCrackerPro4.1
+C:\OfficeSetup
+C:\OneDriveTemp
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Projects
+C:\Recovery
+C:\RNA-2022
+C:\Ruby30-x64
+C:\SQL2019
+C:\System Repair
+C:\System Volume Information
+C:\University
+C:\UserDataBases
+C:\Users
+C:\Windows
+C:\Разное
+Список файлов:
+C:\dell.sdr
+C:\DumpStack.log.tmp
+C:\FIOD.manifest
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\swapfile.sys
