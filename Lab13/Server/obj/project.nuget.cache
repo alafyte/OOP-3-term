@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DhdQVtqiTcLIdvdPv+VE30xM5SNVrMMl+5aanZuXMPgTN2xcPxOJU0UP+XSW3YYSeokfABCQXTdFvzlQdzbKcw==",
+  "success": true,
+  "projectFilePath": "C:\\University\\3_cем\\ОOП\\Lab13\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blebb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\blebb\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

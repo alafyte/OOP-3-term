@@ -1,0 +1,1 @@
+{"$type":"System.Collections.Generic.List`1[[Lab13.Inventory, Lab13]], System.Private.CoreLib","$values":[{"$type":"Lab13.Bench, Lab13","Name":"Скамья"},{"$type":"Lab13.BasketballBall, Lab13","BallSize":8,"Name":"Баскетбольный мяч"},{"$type":"Lab13.Ball, Lab13","BallSize":7,"Name":"Мяч"}]}
